@@ -23,7 +23,7 @@ On the frontend, React.js is used to build a dynamic and responsive user interfa
 
 This project is not only a practical demonstration of real-time communication but also a great learning tool for understanding how different technologies can be integrated to build a full-stack application. It covers key concepts such as WebSocket communication, event-driven programming, state management in React, and responsive design. The application can be extended with additional features such as user authentication, private messaging, typing indicators, and message persistence using a database. It can also be deployed to a cloud platform, making it accessible to users worldwide. Overall, the Real-Time Chat Application is a versatile and engaging project that showcases the potential of modern web development technologies.
 
-OUTPUT: <!-- Uploading "Screenshot 2025-03-19 222655.png"... -->
+OUTPUT: ![Image](https://github.com/user-attachments/assets/b9d2314b-d44d-4162-a4b1-67ea0a8902bc)
 
 
 
